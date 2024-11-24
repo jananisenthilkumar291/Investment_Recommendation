@@ -1,5 +1,5 @@
 ## Investment_Recommendation
-### pipeline
+### Pipeline
 - Sentiment Analysis
 - Time Series Forecasting
 - Recommendation system
